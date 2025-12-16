@@ -1,17 +1,16 @@
 #EXTM3U
 #EXTINF:0 type="stream" channelId="0" logo="https://yt3.googleusercontent.com/Ar9s9sZNclvmZN1l7GfIdnAQjh_ZkVhGMx6Dy5PHbq2keR9ijkPMFkk9VxZnIEnTf0MrXfSU4g", TRT 1
-https://tv-trt1-dash.medya.trt.com.tr/master.mpd
+https://boncuktv.seni-hinzir.workers.dev/trt1
 https://streams.uzunmuhalefet.com/stream/535f4f5a-3ffa-4919-bb5d-5d31024c9237.m3u8
+http://stream.tvcdn.net/eglence/belgesel-tv.m3u8
 #EXTINF:0 type="stream" channelId="0" logo="https://yt3.ggpht.com/nvaPqrfikU8WNsYQgXe3IiUBz-jmU1_KAKSxOSfdjFEUOmI4N48QQZub-V84sxGWdiU7M0Xd", TRT 2
 https://tv-trt2.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:0 type="stream" channelId="0" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFvTDRSjkXq-pLMk_e2vgiEiidR1TTfS1vfA&s", TABII TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8?sid=IUlyczhCBES7nvvwJSIycw&bvr_flags=10&bvr_ch=tabiitv&bvr_bw=2800000
+#EXTINF:0 type="stream" channelId="0" logo="https://www.tgrtbelgesel.com.tr/wp-content/uploads/2022/12/TGRT_Belgesel_Bize_Ulasin.jpg", TGRT Belgesel
+https://tgrt-live.ercdn.net/tgrtbelgesel/tgrtbelgesel.m3u8
 #EXTINF:0 type="stream" channelId="0" logo="https://yt3.ggpht.com/bnBf3_3Nw-sQkrjyj0U1Gb68Od0em3yzm9_VzgHqyxPvYyP069gRuRW-QdLI5qJ8QFl3m-y6Mw", TRT Belgesel
-https://tv-trtbelgesel-dash.medya.trt.com.tr/master.mpd
-#EXTINF:0 type="stream" channelId="0" logo="https://www.doganinsesiturkiye.com/resim/upload/sb1814.jpg", Belgesel TV
-http://stream.tvcdn.net/eglence/belgesel-tv.m3u8
-#EXTINF:0 type="stream" channelId="0" logo="https://yt3.googleusercontent.com/TWSgLJEkOPBFXWbyqzBuG0-EeXmhVXUKHEoRn3GnJ_WkJeknuh2Q9MJrLAC6k_-YKb4HeslA=s900-c-k-c0x00ffffff-no-rj", TGRT Belgesel
-https://tv-trtbelgesel-dai.medya.trt.com.tr/master.m3u8
+https://boncuktv.seni-hinzir.workers.dev/trtbelgesel
 #EXTINF:0 type="stream" channelId="0" logo="https://i.ibb.co/s9mVqWH/kanald.png", KANAL D
 https://streams.uzunmuhalefet.com/stream/6bdc8fb5-3e82-4b44-a0b1-6ab9fdc35d3f.m3u8
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
