@@ -64,34 +64,25 @@ http://162.212.179.33:80/gin-dvrfl05/gin-showtvturk/playlist.m3u
 #EXTINF:0 type="stream" channelId="0" logo="https://mo.ciner.com.tr/showturk/iu/1020x510/bes-milyon-borc-verirmisin.jpg?v=1759691704", SHOW TÜRK
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shturk.m3u8
 #EXTINF:0 type="stream" channelId="0" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiXPOeFqWP8i6qvee_jXYGJbtacYVeFrjEKg&s", SHOW MAX
-http://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax.m3u8
+https://ciner-live.ercdn.net/showmax/playlist.m3u8?e=1765890830&st=NukZQb5uWOHV1HBpDVXn8Q&tv=1
 #EXTINF:0 type="stream" channelId="0" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_Star_TV_%282011-2017%29.svg/1029px-Logo_Star_TV_%282011-2017%29.svg.png",, Star TV
-https://cdn-eu.tivimivi.com/streams/118/master.m3u8
+https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/tur/star.m3u8
 #EXTINF:0 type="stream" channelId="0" logo="https://upload.wikimedia.org/wikipedia/tr/archive/3/37/20120927072201%21Euro_Star_logosu.png", EURO STAR
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/estar.m3u8
 #EXTINF:0 type="stream" channelId="0" logo="https://i.ibb.co/0DpKtzT/nowtvturk.png", NOW
-http://tv.dsmart-go.workers.dev/?ID=https://www.nowtv.com.tr/canli-yayin
+https://boncuktv.seni-hinzir.workers.dev/now
 #EXTINF:0 type="stream" channelId="0" logo="https://turkey.mom-rsf.org/uploads/tx_lfrogmom/media/241-101_import.png", Kanal 7
-https://kanal7.daioncdn.net/kanal7/kanal7.m3u8?app=f99587ad-1637-494d-8255-da35b09d17a1
+https://boncuktv.seni-hinzir.workers.dev/kanal7
 #EXTINF:0 type="stream" channelId="0" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT32MxCT3C33rdIjDOue8LrU81LAIwkUYs-kA&s", Kanal 7 Avrupa
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
 #EXTINF:0 type="stream" channelId="0" logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg", A2
-http://89.187.191.41/A2-HD-TR/video.m3u8
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_720p.m3u8
 #EXTINF:0 type="stream" channelId="0" logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png", TV 8
-https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=7uwoyq6usvp2&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=2
-https://streams.uzunmuhalefet.com/stream/e93b8e86-e4fc-450a-81d4-2188eda7dda0.m3u8
-https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
-https://tv8.daioncdn.net/tv8/tv8_720p.m3u8?&sid=7tr9yvr73465&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
-https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_720p.m3u8
-https://tv8-live.daioncdn.net/tv8/tv8_720p.m3u8
+https://boncuktv.seni-hinzir.workers.dev/tv8
 #EXTINF:0 type="stream" channelId="0" logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/TV8.5_Logosu.png/revision/latest/scale-to-width-down/220?cb=20170827103605", TV 8.5
-https://streams.uzunmuhalefet.com/stream/88228e59-ca29-4b4a-95e5-e9152bd9e1b4.m3u8
-https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_480p.m3u8?&sid=7tra76g4cefx&app=bf58ab52-4865-4c81-b223-26b41009801e&ce=3
-https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_720p.m3u8
-https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8
+https://boncuktv.seni-hinzir.workers.dev/tv85
 #EXTINF:0 type="stream" channelId="0" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSEKnNLYOsGo6tCycShzX7x0hpFQbySSwsWhs9K5ZEZw&s=10", TV8 INT
-https://trn03.tulix.tv/gt-tv8int/index.m3u8
-https://streams.uzunmuhalefet.com/stream/4fb7bad7-515a-4c32-920a-db3ab01e4e15.m3u8
+
 #EXTINF:0 type="stream" channelId="0" logo="https://upload.wikimedia.org/wikipedia/tr/8/8d/Beyaz_TV_logo.jpeg", Beyaz TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #EXTINF:0 type="stream" channelId="0" logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/360-hd-buyuk.png?rkt=DfS6Tgv6Hjr93k3", 360
@@ -246,7 +237,7 @@ https://streams.uzunmuhalefet.com/stream/5e98fbc1-ddd0-4c55-a6fa-f2e2dec6687c.m3
 https://streams.uzunmuhalefet.com/stream/7c50e51e-509e-438f-b1e0-444995e3bed8.m3u8
 #EXTINF:0 type="stream" channelId="0" logo="https://assets.uzunmuhalefet.com/logos/99faa850-add3-43c3-9fd1-2a4fc638c49f.png", Dizi-Film TV
 https://streams.uzunmuhalefet.com/stream/b63b0c43-c0c7-4d4c-bce1-add3c10ac09d.m3u8
-#EXTINF:0 type="stream" channelId="0" logo="https://image.winudf.com/v2/image1/Y29tLmZpbG1kaXppdHZfc2NyZWVuXzFfMTU4ODE3NjgzNV8wNDA/screen-1.jpg?fakeurl=1&type=.jpg", Dizi Film TV
+#EXTINF:0 type="stream" channelId="0" logo="https://image.winudf.com/v2/image1/Y29tLmZpbG1kaXppdHZfc2NyZWVuXzFfMTU4ODE3NjgzNV8wNDA/screen-1.jpg?fakeurl=1&type=.jpg", Dizi Film 2 TV
 http://stream.tvcdn.net/eglence/dizi-film-tv.m3u8
 #EXTINF:0 type="stream" channelId="0" logo="https://upload.wikimedia.org/wikipedia/tr/1/1f/Kurtlar-vadisi-eski.jpg", Kurtlar Vadisi
 http://live.tv-youtube.workers.dev/?ID=UCABzirZ6FyebIf8YSptKMwQ
@@ -254,30 +245,8 @@ http://live.tv-youtube.workers.dev/?ID=UCABzirZ6FyebIf8YSptKMwQ
 http://live.tv-youtube.workers.dev/?ID=UCz1UfNp9VFp9R1HEFn5PY5A
 #EXTINF:0 type="stream" channelId="0" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5373QUIfvfslcbc0HMnNUUU75UFsgoxjhkSwflRLJmg&s=10", Kemal Sunal TV
 https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Kemal_Sunal_Tv.m3u8
-#EXTINF:0 type="stream" channelId="0" logo="https://i.pinimg.com/736x/2c/97/15/2c971516cfe68fe2671ee137434b27c3.jpg", YeşilcamTV
-https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Yesilcam_Tv.m3u8
-#EXTINF:0 type="stream" channelId="0" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5373QUIfvfslcbc0HMnNUUU75UFsgoxjhkSwflRLJmg&s=10", Kemal Sunal Filmleri
-http://live.tv-youtube.workers.dev/?ID=UCE1XdVHzOdMnUsUMatIzjag
 #EXTINF:0 type="stream" channelId="0" logo="https://i.pinimg.com/736x/2c/97/15/2c971516cfe68fe2671ee137434b27c3.jpg", Yeşilçam Eski Türk Filmleri
 http://live.tv-youtube.workers.dev/?ID=UCoIUysIrvGxoDw-GkdOGjRw
-#EXTINF:0 type="stream" channelId="0" logo="https://assets.uzunmuhalefet.com/logos/f401dbcd-970c-4a9d-9f8e-df4fb78a09f1.png", Arzu Film
-https://streams.uzunmuhalefet.com/stream/6a638416-45c9-4db0-a06a-4f2a4d56ccf0.m3u8
-#EXTINF:0 type="stream" channelId="0" logo="https://assets.uzunmuhalefet.com/logos/3da5ccab-06e3-40cb-a585-11f5ee3e13b8.png", Film Atölyesi
-https://streams.uzunmuhalefet.com/stream/a1c44406-1b5d-4366-abd3-7e829d391410.m3u8
-#EXTINF:0 type="stream" channelId="0" logo="https://assets.uzunmuhalefet.com/logos/bbaf6db1-c4b6-4346-9cd1-8a0b331ffd34.png", Gülşah Film
-https://streams.uzunmuhalefet.com/stream/9d022de6-eb42-42fe-ae71-4728b1850a01.m3u8
-#EXTINF:0 type="stream" channelId="0" logo="https://assets.uzunmuhalefet.com/logos/23261646-b494-438f-af29-e142bcb85863.png", Kemal Sunal Filmleri
-https://streams.uzunmuhalefet.com/stream/00f5d14e-2eae-4a5e-bec7-f7f91d468248.m3u8
-#EXTINF:0 type="stream" channelId="0" logo="https://assets.uzunmuhalefet.com/logos/23261646-b494-438f-af29-e142bcb85863.png", Kemal Sunal Filmler ve Sahneler
-https://streams.uzunmuhalefet.com/stream/6d98fd2d-7f68-46b4-968a-fc4810fc041c.m3u8
-#EXTINF:0 type="stream" channelId="0" logo="https://assets.uzunmuhalefet.com/logos/22c7372b-cde9-489c-9c83-c37b8811a6cb.png", Aksiyon Filmleri
-https://streams.uzunmuhalefet.com/stream/03195462-2a8c-4ff0-8fe9-3e0b1c0de7f8.m3u8
-#EXTINF:0 type="stream" channelId="0" logo="https://assets.uzunmuhalefet.com/logos/56ea3a85-6021-4ca7-8b03-177f19fd1ec8.png", TAFF Pictures
-https://streams.uzunmuhalefet.com/stream/e5957906-4486-4d64-93fa-f9cedd1f7bdd.m3u8
-#EXTINF:0 type="stream" channelId="0" logo="https://assets.uzunmuhalefet.com/logos/8ae78da8-6ebd-4ba2-bd97-fcf61be6471e.png", TLC Suç ve Araştırma
-https://streams.uzunmuhalefet.com/stream/878720d6-1278-46de-92c0-46cccb565905.m3u8
-#EXTINF:0 type="stream" channelId="0" logo="https://assets.uzunmuhalefet.com/logos/f9f83480-1122-44da-9db1-93d16d10e249.png", DMAX Antik Mısır
-https://streams.uzunmuhalefet.com/stream/37ca2f56-f2d0-4704-994f-f9eadb81d2ff.m3u8
 #EXTINF:0 type="stream" channelId="0" logo="https://yt3.googleusercontent.com/ytc/AIdro_kjqGhR6pxehZeMK0St6-8RDj_xhtvAz1pGwGewEjh9Rw", KORKU FİLM 7/24
 http://live.tv-youtube.workers.dev/?ID=UCsbpTjR1Vh0L3gvBg9d0Dbg
 #EXTINF:0 type="stream" channelId="0" logo="https://yt3.googleusercontent.com/0wl6DvD91ByT83wXFOxKeqt6W1vD1MfrEMo1-Gi2gDQIwcPQV8dpy0CKcB33Zm67GYQrz0AR", Aksiyon Filmleri
@@ -292,8 +261,6 @@ http://live.tv-youtube.workers.dev/?ID=UCiT-eroqDoA3zct3OkzhEPA
 http://live.tv-youtube.workers.dev/?ID=UC7X6WuvzdVTFtAAAly9ldcw
 #EXTINF:0 type="stream" channelId="0" logo="https://upload.wikimedia.org/wikipedia/tr/7/74/Selena_resim.jpg", Selena
 http://live.tv-youtube.workers.dev/?ID=UCC_iReQZgbPtOBfn3bjNnPw
-#EXTINF:-1 tvg-logo="https://assets.uzunmuhalefet.com/logos/c6dec0ac-56e5-4542-8fdb-e4439b8c505a.png" tvg-url="",Sihirli Annem - Kanal D
-https://streams.uzunmuhalefet.com/stream/4062a29c-b670-4656-8132-24230625971b.m3u8
 #EXTINF:0 type="stream" channelId="0" logo="https://upload.wikimedia.org/wikipedia/tr/8/8e/Emret_Komutan%C4%B1m_%C5%9Eah_Mat_film_afi%C5%9Fi.jpg", Emret Komutanım
 http://live.tv-youtube.workers.dev/?ID=UCGKPVBUcJcEMvqceX3Pl5Lw
 #EXTINF:-1 tvg-logo="https://assets.uzunmuhalefet.com/logos/dd2eafd8-f2e2-45ec-a48e-07c76c38e485.png" tvg-url="",Çiçek Taksi
@@ -301,13 +268,11 @@ https://streams.uzunmuhalefet.com/stream/4076b6f3-965e-4d81-ad46-888f16071924.m3
 #EXTINF:0 type="stream" channelId="0" logo="https://img-s1.onedio.com/id-682f7236257417dd5597655b/rev-0/w-600/h-502/f-jpg/s-dc99d6ad1583d5fd8f5cf49482c6dbc65c647393.jpg", Leyla ile Mecnun
 http://live.tv-youtube.workers.dev/?ID=UCmODRwQLSOr5GEG77Uf_zpQ
 #EXTINF:-1 tvg-logo="https://assets.uzunmuhalefet.com/logos/bf58043b-a37f-4b71-812c-e606344e275b.png" tvg-url="https://25film.net/",Tolgshow Filtresiz
-https://streams.uzunmuhalefet.com/stream/7f2dcb73-d098-42ef-9148-a5d867a36cde.m3u8
+http://live.tv-youtube.workers.dev/?ID=UCfyPw7vYwIVb6OuDIf7qeOQ
 #EXTINF:0 type="stream" channelId="0" logo="https://m.media-amazon.com/images/M/MV5BYTlhZTg1NjItYmJkNi00MjY5LWExOTItYWI0NjllOTkzZGFjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", Arkadaşım Hoşgeldin
 http://live.tv-youtube.workers.dev/?ID=UCOYerJedhQqSyhXkev8QRFA
 #EXTINF:0 type="stream" channelId="0" logo="https://upload.wikimedia.org/wikipedia/tr/5/51/G%C3%BCld%C3%BCrG%C3%BCld%C3%BCrShow.jpg", Güldür Güldür Show 
 http://live.tv-youtube.workers.dev/?ID=UCdlEXiVLTEvA280oyMvr8Kw
-#EXTINF:-1 tvg-logo="https://assets.uzunmuhalefet.com/logos/82f8a447-48eb-4ad8-9964-e11dd66fdc30.png" tvg-url="https://www.kanald.com.tr/",Çok Güzel Hareketler 2
-https://streams.uzunmuhalefet.com/stream/c03ff07b-e1af-4172-ad4d-84fdac7309b3.m3u8
 #EXTINF:0 type="stream" channelId="0" logo="https://m.media-amazon.com/images/M/MV5BZTNlMDZlZTQtY2VmYi00ZjdhLTllNDItMjBhMjk4NWFlYjdiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", Yeşil Deniz Milenyum
 http://live.tv-youtube.workers.dev/?ID=UCPUpDCqAbk0F7_occqwOBTA
 #EXTINF:0 type="stream" channelId="0" logo="https://i.ytimg.com/vi/ZZaW33xTChU/hq720.jpg?v=6890bea0&sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCmVkhrAkOT7n-sEnVWTUdaBRYeOA", Dünyayı Dehşete Düşüren Cinayetler - 7/24 TLC Suç ve Araştırma Canlı Yayın
